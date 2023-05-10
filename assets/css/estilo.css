@@ -1,0 +1,101 @@
+body {
+    background-color: #48CCFC;
+}
+
+#login {
+    width: 190px;
+    background-color: #2E84A3;
+    margin-top: 50px;
+    margin-left: 760px;
+    height: 155px;
+    border: 0px;
+}
+
+#Cadastrar {
+    width: 190px;
+    background-color: #2E84A3;
+    margin-top: 50px;
+    margin-left: 760px;
+    height: 306px;
+    border: 0px;
+}
+
+input {
+    width: 230px;
+    height: 26px;
+    border: 0px;
+}
+
+.logar {
+    background-color: #3cc44c;
+    margin-top: 10px;
+    color: #FFF;
+    width: 234px;
+    height: 27px;
+}
+
+.logar2 {
+
+    margin-top: 10px;
+}
+
+.logar3 {
+
+    margin-top: 10px;
+}
+
+#banner {
+    width: 250px;
+    margin-left: 755px;
+    margin-top: 50px;
+}
+
+#registra {
+    margin-top: 2px;
+    text-decoration: none;
+    color: #FFF;
+    font-size: small;
+}
+
+#senha {
+    margin-top: 1px;
+    margin-left: 95px;
+    text-decoration: none;
+    color: #FFF;
+    font-size: small;
+}
+
+#email {
+    margin-top: 10px;
+}
+
+#nome {
+    margin-top: 8px;
+}
+
+p {
+    margin-top: 3px;
+    color: #FFF;
+}
+
+.cadastrar {
+    background-color: #3cc44c;
+    margin-top: 10px;
+    color: #FFF;
+    width: 234px;
+    height: 27px;
+}
+
+.cancelar {
+    background-color: red;
+    margin-top: 10px;
+    color: #FFF;
+    width: 234px;
+    height: 27px;
+}
+
+#País {
+    margin-top: 10px;
+    width: 235px;
+    height: 30px;
+}
